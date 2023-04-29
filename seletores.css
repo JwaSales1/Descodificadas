@@ -1,0 +1,123 @@
+*{
+   padding: 5px;
+   margin: center;
+}
+
+#caixa1{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: red;
+    width: 106px;
+    height: 100px;
+    padding: 0.5px;
+    transform: translate(2px, 4px);
+}
+
+
+.caixa{
+    display: inline-block;
+    border: 1px solid #f3f3f3;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    display: flex;
+}
+
+.caixa6{
+    display: inline-block;
+    border: 1px solid black;
+    background-color: red;
+    width: 99px;
+    height: 100px;
+    transform: translate(0px -9px );
+    
+
+}
+
+.cima{
+   display: inline-block;
+    border: 1px solid #f3f3f3;
+    background-color: red;
+    width: 99px;
+    height: 90px;
+    transform:translate(1px,-450px) ;
+
+}
+
+.fila2{
+    display: inline-block;
+    border: 1px solid #fff;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transform: translate(-460px, -0px);
+       
+}
+
+    
+
+ 
+
+.esq{
+    display: block;
+    border: 1px solid white;
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    transform: translate(567px, -555px);  
+
+}
+
+#esq5{
+    display: block;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: red;
+    width: 92px;
+    height: 90px;
+    transform: translate(575px,-554px);
+      
+}
+
+#esq6{
+    display: block;
+    border: 1px solid rgb(0, 0, 0);
+    background-color: red;
+    width: 94px;
+    height: 99px;
+    transform: translate(575px,-555px);
+}
+
+
+.roxo{
+     display: inline-block;
+     border: #f3f3f3;
+     background-color: purple;
+     width: 100px;
+     height: 100px;
+     transform: translate(115px, -999px);
+    
+
+
+}
+
+.fucsia{
+     display: inline-block;
+     border: #f3f3f3;
+     background-color: rgb(253, 0, 253);
+     width: 100px;
+     height: 100px;
+     transform: translate(-342px, -885px);
+    
+
+}
+
+.anil{
+    display: inline-block;
+     border: #f3f3f3;
+     background-color: rgb(32, 29, 196);
+     width: 100px;
+     height: 99px;
+     transform: translate(-799px,-775px);
+   
+
+}
