@@ -1,0 +1,42 @@
+*{
+    background-position: 50px;
+   
+ 
+    
+}
+
+h1{
+    text-align: center;
+    color: rgb(19, 19, 250);
+    font-size: 4pc;
+    
+}
+
+#caixa {
+    background-image: url(/img/flor.jpg);
+    width: 500px;
+    height: 600px;
+    margin: 20pc 45pc;
+    transform:translate(20px, -195px);   
+    box-shadow: -15px -5px 5px black;
+    border: 5px solid purple;
+    
+
+
+}
+
+.caixa2{
+    border: 5px solid rebeccapurple;
+    width: 600px;
+    height: 750px;
+    margin: 43pc;
+    transform: translate(-10px, -1569px);
+    padding: 2px, 2px, 2px, 2px;
+    box-shadow: 10px 10px 10px 10px purple;
+
+}
+
+
+
+
+
