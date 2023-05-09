@@ -1,0 +1,47 @@
+*{
+    
+  
+
+}
+
+#conteiner{
+    border: 10px solid rgb(183, 181, 181);
+    width: 58pc;
+    height: 700px;
+    bottom: 10px;
+    margin: auto;
+    padding: 10px;
+
+}
+
+.titulo{
+  border: 5px solid rgb(210, 205, 205);
+  
+   width: 400px;
+   height: 50px;
+   text-align: center;
+   background-color: rgb(231, 231, 231);
+
+}
+
+    
+   
+
+
+article{
+   border: 1px solid rgb(183, 181, 181);
+   background-color:rgb(183, 181, 181); 
+   font-size: 20px;
+   width: 450px;
+   height: 45.5pc;
+   display: block;
+   margin-left: 30.4pc;
+   margin-top: -39pc;
+   
+}
+
+p{
+   font-size: 22px;
+   text-align: center;
+   padding: 60px;
+}
