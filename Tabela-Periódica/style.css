@@ -1,0 +1,386 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0;
+    width: 90px;
+    height: 5px;
+    border-radius: 8%;
+
+   
+    
+    
+}
+
+
+table tr td{
+    border: 1px solid;
+    width: 120px;
+    text-align: center;
+
+
+}
+
+.hidrogenio{
+    background-color: greenyellow;
+}
+
+
+
+.Li{
+    background-color: rgb(248, 195, 4);
+
+}
+
+.Na{
+    background-color:  rgb(248, 195, 4);
+
+}
+
+.K{
+    background-color:  rgb(248, 195, 4);
+
+}
+
+.Rb{
+    background-color:  rgb(248, 195, 4);
+
+}
+
+.Cs{
+    background-color:  rgb(248, 195, 4);
+
+}
+
+.Fr{
+    background-color:  rgb(248, 195, 4);
+
+}
+
+
+
+.boro{
+    transform: translate(940px);
+    background-color: rgba(16, 163, 109, 0.851);
+}
+
+.Aluminio{
+    transform: translate(940px);
+    background-color: rgb(138, 191, 191);
+}
+.Ag{
+    background-color: rgb(138, 191, 191);
+}
+.In{
+    background-color: rgb(138, 191, 191);
+}
+.Tâlio{
+    background-color: rgb(138, 191, 191);
+}
+
+.Ga{
+    background-color: rgb(138, 191, 191);
+}
+.Nh{
+    background-color: rgb(138, 191, 191);
+}
+
+.Sn{
+    background-color: rgb(138, 191, 191);
+}
+.Pb{
+    background-color: rgb(138, 191, 191);
+}
+
+.Fl{
+    background-color: rgb(138, 191, 191);
+}
+.Bi{
+    background-color: rgb(138, 191, 191);
+}
+.Mc{
+    background-color: rgb(138, 191, 191);
+}
+.Lv{
+    background-color: rgb(138, 191, 191);
+}
+
+
+.silicio{
+    transform: translate(940px);
+    background-color: rgb(62, 146, 115);
+}
+
+.Ge{
+    background-color: rgb(62, 146, 115);
+}
+.As{
+     background-color: rgb(62, 146, 115);
+}
+
+.Sb{
+     background-color: rgb(62, 146, 115);
+}
+.Te{
+     background-color: rgb(62, 146, 115);
+}
+.Po{
+     background-color: rgb(62, 146, 115);
+}
+
+.fosforo{
+    transform: translate(940px);
+}
+
+.enxofre{
+    transform: translate(940px);
+}
+
+.Cloro{
+    transform: translate(940px);
+}
+
+.argonio{
+    transform: translate(940px);
+}
+
+
+
+.carbono{
+    transform: translate(940px);
+    background-color: greenyellow;
+
+}
+
+.Se{
+    background-color: greenyellow;
+}
+
+.Nitrogenio{
+    transform: translate(940px);
+    background-color: greenyellow;
+}
+
+.fosforo{
+    background-color: greenyellow;
+}
+.enxofre{
+    background-color: greenyellow;
+}
+
+.Oxigenio{
+    transform: translate(940px);
+    background-color: greenyellow;
+}
+
+.fluor{
+    transform: translate(940px);
+
+}
+
+.Neônio{
+    transform: translate(940px);
+     background-color: blue;
+}
+
+.Hélio{
+    transform: translate(1501px, 1px);
+    background-color: blue;
+}
+
+
+
+.argonio{
+     background-color: blue;
+}
+
+.Kr{
+     background-color: blue;
+}
+
+.Xe{
+     background-color: blue;
+}
+
+.Rn{
+     background-color: blue;
+}
+
+.Og{
+     background-color: blue;
+}
+
+
+.Be{
+    background-color: yellow;
+
+}
+
+.Mg{
+    background-color: yellow;
+}
+
+.Ca{
+    background-color: yellow;
+}
+
+.Sr{
+    background-color: yellow;
+}
+
+.Ba{
+    background-color: yellow;
+}
+
+.Ra{
+    background-color: yellow;
+}
+
+.Sc{
+    background-color: rgb(244, 81, 81);
+}
+
+.Y{
+     background-color: rgb(244, 81, 81);
+}
+.Ta{
+     background-color: rgb(244, 81, 81);
+}
+.V{
+     background-color: rgb(244, 81, 81);
+}
+.Cr{
+     background-color: rgb(244, 81, 81);
+
+}
+.Mn{
+     background-color: rgb(244, 81, 81);
+}
+.Fe{
+     background-color: rgb(244, 81, 81);
+}
+.Co{
+     background-color: rgb(244, 81, 81);
+}
+.Ni{
+     background-color: rgb(244, 81, 81);
+}
+.Cu{
+     background-color: rgb(244, 81, 81);
+}
+.Zn{
+     background-color: rgb(244, 81, 81);
+}
+.Zr{
+     background-color: rgb(244, 81, 81);
+}
+.Nb{
+     background-color: rgb(244, 81, 81);
+}
+.Mo{
+     background-color: rgb(244, 81, 81);
+}
+.Tc{
+     background-color: rgb(244, 81, 81);
+}
+.Rh{
+     background-color: rgb(244, 81, 81);
+}
+.Pd{
+     background-color: rgb(244, 81, 81);
+}
+.Ru{
+     background-color: rgb(244, 81, 81);
+}
+.Ag{
+     background-color: rgb(244, 81, 81);
+}
+.Cd{
+     background-color: rgb(244, 81, 81);
+}
+
+.Hf{
+     background-color: rgb(244, 81, 81);
+}
+.Ti{
+     background-color: rgb(244, 81, 81);
+}
+
+.W{
+     background-color: rgb(244, 81, 81);
+}
+
+.Re{
+     background-color: rgb(244, 81, 81);
+}
+.Os{
+     background-color: rgb(244, 81, 81);
+}
+.Ir{
+     background-color: rgb(244, 81, 81);
+}
+.Pt{
+     background-color: rgb(244, 81, 81);
+}
+.Au{
+     background-color: rgb(244, 81, 81);
+}
+.Hg{
+     background-color: rgb(244, 81, 81);
+}
+.Rf{
+     background-color: rgb(244, 81, 81);
+}
+.Db{
+     background-color: rgb(244, 81, 81);
+}
+.Sg{
+     background-color: rgb(244, 81, 81);
+}
+.Bh{
+     background-color: rgb(244, 81, 81);
+}
+.Hs{
+     background-color: rgb(244, 81, 81);
+}
+.Mt{
+     background-color: rgb(244, 81, 81);
+}
+.Ds{
+     background-color: rgb(244, 81, 81);
+}
+.Rg{
+     background-color: rgb(244, 81, 81);
+}
+.Cn{
+     background-color: rgb(244, 81, 81);
+}
+
+.fluor{
+    background-color: aqua;
+}
+.Cloro{
+    background-color: aqua;
+}
+.Br{
+    background-color: aqua;
+}
+
+.I{
+    background-color: aqua;
+}
+.At{
+    background-color: aqua;
+}
+.Ts{
+    background-color: rgb(27, 142, 142);
+}
+
+.Tab1{
+    background-color: rgb(86, 86, 212);
+    transform: translate(200px);
+
+}
+
+.Tab2{
+    background-color: rgb(178, 131, 222);
+    transform: translate(200px);
+}
