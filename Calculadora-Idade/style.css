@@ -1,0 +1,49 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    
+    
+}
+
+:root{
+
+}
+
+body{
+    background-image: linear-gradient(to left, rgb(198, 140, 234) 10%, rgb(109, 109, 241) 50%);
+}
+
+h1{
+    padding: 2pc;
+    transform: translate(0px, -50px);
+}
+
+p{
+    transform: translate(0px, -40px);
+}
+
+.conteiner{
+  border-radius: 10px;
+  box-shadow: 10px 5px 5px rgb(91, 91, 234);
+  padding: 5pc;
+  margin: 18pc 40pc;
+  text-align: center;
+  background-image: linear-gradient(rgb(166, 71, 233), rgb(79, 57, 240));
+  
+
+    
+
+}
+
+#txt{
+    padding: 10px;
+    width: 20pc;
+}
+
+.submit{
+    padding: 10px 10px;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(229, 145, 159), rgb(51, 51, 221)) ;
+    font-size: large;
+}
